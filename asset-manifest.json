@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WCP/wcp/build/static/css/main.1ea10d3f.css",
+    "main.js": "/WCP/wcp/build/static/js/main.5abf7826.js",
+    "static/js/787.c5da1c9f.chunk.js": "/WCP/wcp/build/static/js/787.c5da1c9f.chunk.js",
+    "index.html": "/WCP/wcp/build/index.html",
+    "main.1ea10d3f.css.map": "/WCP/wcp/build/static/css/main.1ea10d3f.css.map",
+    "main.5abf7826.js.map": "/WCP/wcp/build/static/js/main.5abf7826.js.map",
+    "787.c5da1c9f.chunk.js.map": "/WCP/wcp/build/static/js/787.c5da1c9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea10d3f.css",
+    "static/js/main.5abf7826.js"
+  ]
+}
