@@ -2,7 +2,7 @@
   "name": "wcp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://someone112113.github.io/WCP/wcp/build",
+  "homepage": "https://someone112113.github.io/WCP/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
